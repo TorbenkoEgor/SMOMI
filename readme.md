@@ -10,4 +10,4 @@
 
 ![Image alt](https://github.com/samsdimko/SMOMI/blob/master/Acc.png)
 
-Итоговая точность 0.4963
+Итоговая точность на тестовых данных 0.4963
